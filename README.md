@@ -1,3 +1,3 @@
 # Personal Portfolio
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+<!-- Learn From: https://www.youtube.com/watch?v=OPaLnMw2i_0 -->
