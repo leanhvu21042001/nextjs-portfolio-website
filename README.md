@@ -43,6 +43,6 @@ npm install
 npm run dev
 ```
 
-> If you have any question or any problem when you try to run, just create a pull request or issue or contact me over this site [NEXTJS LAVDEV SITE](https://nextjs-lavdev-portfolio.vercel.app/), click to contact or phone or send me and email
+> If you have any question or any problem when you try to run, just create a pull request or issue or contact me over this site [NEXTJS LAVDEV SITE](https://nextjs-lavdev-portfolio.vercel.app/), click to contact or phone or send me an email
 
 <!-- Learn From: https://www.youtube.com/watch?v=OPaLnMw2i_0 -->
