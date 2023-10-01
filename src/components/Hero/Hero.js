@@ -19,7 +19,9 @@ const Hero = () => (
         The purpose of me is to help aspiring and established developers to take
         their development skills to the next level and build awesome apps
       </SectionText>
-      <Button>Contact</Button>
+      <a href="mailto:leanhvu21042001@gmail.com">
+        <Button>Contact</Button>
+      </a>
     </LeftSection>
   </Section>
 );
