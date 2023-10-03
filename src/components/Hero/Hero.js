@@ -19,7 +19,10 @@ const Hero = () => (
         The purpose of me is to help aspiring and established developers to take
         their development skills to the next level and build awesome apps
       </SectionText>
-      <a href="mailto:leanhvu21042001@gmail.com">
+      <a
+        href="mailto:leanhvu21042001@gmail.com"
+        style={{ display: "inline-block", width: "fit-content" }}
+      >
         <Button>Contact</Button>
       </a>
     </LeftSection>
